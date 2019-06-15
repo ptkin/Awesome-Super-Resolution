@@ -4,14 +4,34 @@ Some supplementary materials for this repository, including building instruction
 
 **Table of Contents**
 
-- How We Build This Collection
+- Description of the Collected Resources
+- How We Build this Collection
 - Difference with the Taxonomy of Our Survey
 - Revision & Contribution Guide
 - Contributor List
 
 
 
-## How We Build This Collection
+## Description of the Collected Resources
+
+- Collection criteria (Including but not limited to)
+  - Published on top CV/AI conference or journal (CVPR, ECCV, ICCV, TIP, TPAMI, etc)
+  - Very innovative or potentially high-impact
+  - More concerned with deep learning based works, but also welcome non-deep learning based works
+- Each paper contains the following contents
+  1. Paper title
+  2. Authors
+  3. Publication title (conference/journal) and year
+  4. Paper links, project homepage, open source code (official implementation is denoted by *)
+  5. Keywords that may be useful (e.g., name of the proposed method)
+- Sorting of papers
+  1. The 1st order: publication year
+  2. The 2nd order: publication title
+  3. The 3rd order: paper title
+
+
+
+## How We Build this Collection
 
 1. Collecting
 
