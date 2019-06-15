@@ -264,6 +264,20 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 12. **Towards Real Scene Super-Resolution with Raw Images**, *Xu, Xiangyu; Ma, Yongrui; Sun, Wenxiu*, [[arXiv](https://arxiv.org/abs/1905.12156)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Towards_Real_Scene_Super-Resolution_With_Raw_Images_CVPR_2019_paper.html)], [[Project](https://sites.google.com/view/xiangyuxu/rawsr_cvpr19)]
 13. **Zoom to Learn, Learn to Zoom**, *Zhang, Xuaner; Chen, Qifeng; Ng, Ren; Koltun, Vladlen*, [[arXiv](https://arxiv.org/abs/1905.05169)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Zoom_to_Learn_Learn_to_Zoom_CVPR_2019_paper.html)], [[Project1](https://ceciliavision.github.io/project-pages/project-zoom.html)], [[Project2](http://vladlen.info/publications/zoom-learn-learn-zoom/)], [[TensorFlow*](https://github.com/ceciliavision/zoom-learn-zoom)], [[Video](https://www.youtube.com/watch?v=if6hZKglgL0)], `SR-RAW`, `CoBi`
 
+**2019 CVPRW**
+
+1. **An Epipolar Volume Autoencoder With Adversarial Loss for Deep Light Field Super-Resolution**, *Zhu, Minchen; Alperovich, Anna; Johannsen, Ole; Sulc, Antonin; Goldluecke, Bastian*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Zhu_An_Epipolar_Volume_Autoencoder_With_Adversarial_Loss_for_Deep_Light_CVPRW_2019_paper.html)], `DiffWGAN`
+2. **DenseNet With Deep Residual Channel-Attention Blocks for Single Image Super Resolution**, *Jang, Dong-Won; Park, Rae-Hong*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Jang_DenseNet_With_Deep_Residual_Channel-Attention_Blocks_for_Single_Image_Super_CVPRW_2019_paper.html)], [[PyTorch*](https://github.com/dong-won-jang/DRCA)], `DRCA`
+3. **Encoder-Decoder Residual Network for Real Super-Resolution**, *Cheng, Guoan; Matsune, Ai; Li, Qiuyu; Zhu, Leilei; Zang, Huaijuan; Zhan, Shu*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Cheng_Encoder-Decoder_Residual_Network_for_Real_Super-Resolution_CVPRW_2019_paper.html)], [[PyTorch*](https://github.com/yyknight/NTIRE2019_EDRN)], `EDRN`
+4. **Fractal Residual Network and Solutions for Real Super-Resolution**, *Kwak, Junhyung; Son, Donghee*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Kwak_Fractal_Residual_Network_and_Solutions_for_Real_Super-Resolution_CVPRW_2019_paper.html)], `FRN`
+5. **Hierarchical Back Projection Network for Image Super-Resolution**, *Liu, Zhi-Song; Wang, Li-Wen; Li, Chu-Tak; Siu, Wan-Chi*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Liu_Hierarchical_Back_Projection_Network_for_Image_Super-Resolution_CVPRW_2019_paper.html)], `HBPN`
+6. **Light Field Super-Resolution: A Benchmark**, *Cheng, Zhen; Xiong, Zhiwei; Chen, Chang; Liu, Dong*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Cheng_Light_Field_Super-Resolution_A_Benchmark_CVPRW_2019_paper.html)]
+7. **Multi-Scale Deep Neural Networks for Real Image Super-Resolution**, *Gao, Shangqi; Zhuang, Xiahai*, [[arXiv](https://arxiv.org/abs/1904.10698)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Gao_Multi-Scale_Deep_Neural_Networks_for_Real_Image_Super-Resolution_CVPRW_2019_paper.html)], [[TensorFlow*](https://github.com/shangqigao/gsq-image-SR)], `MsDNN`
+8. **NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results**, *Cai, Jianrui; Gu, Shuhang; Timofte, Radu; Zhang, Lei*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Cai_NTIRE_2019_Challenge_on_Real_Image_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.html)], `NTIRE`
+9. **Orientation-Aware Deep Neural Network for Real Image Super-Resolution**, *Du, Chen; Zewei, He; Anshun, Sun; Jiangxin, Yang; Yanlong, Cao; Yanpeng, Cao; Siliang, Tang; Yang, Michael Ying*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Du_Orientation-Aware_Deep_Neural_Network_for_Real_Image_Super-Resolution_CVPRW_2019_paper.html)], `OA-DNN`
+10. **SCAN: Spatial Color Attention Networks for Real Single Image Super-Resolution**, *Xu, Xuan; Li, Xin*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Xu_SCAN_Spatial_Color_Attention_Networks_for_Real_Single_Image_Super-Resolution_CVPRW_2019_paper.html)], `SCAN`
+11. **Suppressing Model Overfitting for Image Super-Resolution Networks**, *Feng, Ruicheng; Gu, Jinjin; Qiao, Yu; Dong, Chao*, [[arXiv](https://arxiv.org/abs/1906.04809)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Feng_Suppressing_Model_Overfitting_for_Image_Super-Resolution_Networks_CVPRW_2019_paper.html)]
+
 **2019 ICLR**
 
 1. **RESIDUAL NON-LOCAL ATTENTION NETWORKS FOR IMAGE RESTORATION**, *Zhang, Yulun; Li, Kunpeng; Li, Kai; Zhong, Bineng; Fu, Yun*, [[arXiv](https://arxiv.org/abs/1903.10082)], [[OpenReview](https://openreview.net/forum?id=HkeGhoA5FX)], [[PyTorch*](https://github.com/yulunzhang/RNAN)], `RNAN`
@@ -311,6 +325,10 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 
 1. **Face Super-Resolution Guided by Facial Component Heatmaps**, *Yu, Xin; Fernando, Basura; Ghanem, Bernard; Porikli, Fatih; Hartley, Richard*, [[OpenAccess](http://openaccess.thecvf.com/content_ECCV_2018/html/Xin_Yu_Face_Super-resolution_Guided_ECCV_2018_paper.html)], `MTUN`
 2. **Super-Identity Convolutional Neural Network for Face Hallucination**, *Zhang, Kaipeng; Zhang, Zhanpeng; Cheng, Chia-Wen; Hsu, Winston H.; Qiao, Yu; Liu, Wei; Zhang, Tong*, [[arXiv](https://arxiv.org/abs/1811.02328)], [[OpenAccess](http://openaccess.thecvf.com/content_ECCV_2018/html/Kaipeng_Zhang_Super-Identity_Convolutional_Neural_ECCV_2018_paper.html)], `SICNN`
+
+**2019 CVPRW**
+
+1. **Exemplar Guided Face Image Super-Resolution Without Facial Landmarks**, *Dogan, Berk; Gu, Shuhang; Timofte, Radu*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Dogan_Exemplar_Guided_Face_Image_Super-Resolution_Without_Facial_Landmarks_CVPRW_2019_paper.html)], `GWAInet`
 
 ### 2.3 Video SR
 
@@ -375,7 +393,12 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 
 **2019 CVPRW**
 
-1. **EDVR: Video Restoration with Enhanced Deformable Convolutional Networks**, *Wang, Xintao; Chan, Kelvin C. K.; Yu, Ke; Dong, Chao; Loy, Chen Change*, [[arXiv](https://arxiv.org/abs/1905.02716)], [[Project](https://xinntao.github.io/projects/EDVR)], [[PyTorch*](https://github.com/xinntao/EDVR)], `EDVR`
+1. **Adapting Image Super-Resolution State-Of-The-Arts and Learning Multi-Model Ensemble for Video Super-Resolution**, *Li, Chao; He, Dongliang; Liu, Xiao; Ding, Yukang; Wen, Shilei*, [[arXiv](https://arxiv.org/abs/1905.02462)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Li_Adapting_Image_Super-Resolution_State-Of-The-Arts_and_Learning_Multi-Model_Ensemble_for_Video_CVPRW_2019_paper.html)]
+2. **An Empirical Investigation of Efficient Spatio-Temporal Modeling in Video Restoration**, *Fan, Yuchen; Yu, Jiahui; Liu, Ding; Huang, Thomas S*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Fan_An_Empirical_Investigation_of_Efficient_Spatio-Temporal_Modeling_in_Video_Restoration_CVPRW_2019_paper.html)], [[TensorFlow*](https://github.com/ychfan/wdvr_ntire2019)], `WDVR`
+3. **EDVR: Video Restoration with Enhanced Deformable Convolutional Networks**, *Wang, Xintao; Chan, Kelvin C. K.; Yu, Ke; Dong, Chao; Loy, Chen Change*, [[arXiv](https://arxiv.org/abs/1905.02716)], [[Project](https://xinntao.github.io/projects/EDVR)], [[PyTorch*](https://github.com/xinntao/EDVR)], `EDVR`
+4. **MultiBoot Vsr: Multi-Stage Multi-Reference Bootstrapping for Video Super-Resolution**, *Kalarot, Ratheesh; Porikli, Fatih*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Kalarot_MultiBoot_Vsr_Multi-Stage_Multi-Reference_Bootstrapping_for_Video_Super-Resolution_CVPRW_2019_paper.html)], `MultiBoot`
+5. **NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study**, *Nah, Seungjun; Baik, Sungyong; Hong, Seokil; Moon, Gyeongsik; Son, Sanghyun; Timofte, Radu; Lee, Kyoung Mu*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)], `NTIRE, REDS`
+6. **NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results**, *Nah, Seungjun; Timofte, Radu; Gu, Shuhang; Baik, Sungyong; Hong, Seokil; Moon, Gyeongsik; Son, Sanghyun; Lee, Kyoung Mu*, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.html)], `NTIRE`
 
 ### 2.4 Domain-specific SR
 
@@ -482,6 +505,7 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 16. **Camera Lens Super-Resolution**, *Chen, Chang; Xiong, Zhiwei; Tian, Xinmei; Zha, Zheng-Jun; Wu, Feng*, **CVPR 2019**, [[arXiv](https://arxiv.org/abs/1904.03378)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.html)], [[TensorFlow*](https://github.com/ngchc/CameraSR)], `CameraSR`, `City100`
 17. **Image Super-Resolution by Neural Texture Transfer**, *Zhang, Zhifei; Wang, Zhaowen; Lin, Zhe; Qi, Hairong*, **CVPR 2019**, [[arXiv](https://arxiv.org/abs/1903.00834)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.html)], [[Project](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/SRNTT.html)], [[TensorFlow*](https://github.com/ZZUTK/SRNTT)], `SRNTT`, `CUFED5`
 18. **Zoom to Learn, Learn to Zoom**, *Zhang, Xuaner; Chen, Qifeng; Ng, Ren; Koltun, Vladlen*, **CVPR 2019**, [[arXiv](https://arxiv.org/abs/1905.05169)], [[OpenAccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Zoom_to_Learn_Learn_to_Zoom_CVPR_2019_paper.html)], [[Project1](https://ceciliavision.github.io/project-pages/project-zoom.html)], [[Project2](http://vladlen.info/publications/zoom-learn-learn-zoom/)], [[TensorFlow*](https://github.com/ceciliavision/zoom-learn-zoom)], [[Video](https://www.youtube.com/watch?v=if6hZKglgL0)], `SR-RAW`, `CoBi`
+19. **NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study**, *Nah, Seungjun; Baik, Sungyong; Hong, Seokil; Moon, Gyeongsik; Son, Sanghyun; Timofte, Radu; Lee, Kyoung Mu*, **CVPRW 2019**, [[OpenAccess](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)], `NTIRE, REDS`
 
 
 
