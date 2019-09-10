@@ -17,7 +17,8 @@ After completing this survey, we decided to release the collected SR resources, 
 * [3. Unsupervised SR](#3-Unsupervised-SR)
 * [4. SR Datasets](#4-SR-Datasets)
 * [5. SR Metrics](#5-SR-Metrics)
-* [6. Other Resources](#6-Other-Resources)
+* [6. Survey Resources](#6-Survey-Resources)
+* [7. Other Resources](#7-Other-Resources)
 
 **Citing this work**
 
@@ -523,7 +524,19 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 
 
 
-## 6. Other Resources
+## 6. Survey Resources
+
+* **Taxonomy of our survey**
+
+![](resources/survey_taxonomy.jpg)
+
+* **SR Benchmarking**
+
+![](resources/survey_sr_benchmark.jpg)
+
+
+
+## 7. Other Resources
 
 - [Papers With Code : Super Resolution](https://paperswithcode.com/task/super-resolution)
 - [YapengTian/Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
