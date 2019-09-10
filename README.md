@@ -530,7 +530,7 @@ If this repository is helpful to you, please cite our [survey](https://arxiv.org
 
 ![](resources/survey_taxonomy.jpg)
 
-* **SR Benchmarking**
+* **SR Benchmarking** ([Online](https://htmlpreview.github.io/?https://github.com/ptkin/Awesome-Super-Resolution/blob/master/resources/survey_sr_benchmark.html))
 
 ![](resources/survey_sr_benchmark.jpg)
 
